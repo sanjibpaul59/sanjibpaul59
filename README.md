@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjib-036&layout=compact)](https://github.com/Sanjib-036/github-readme-stats)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Sanjib-036/food_app_nuxt?style=flat-square)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanjib-036&repo=food_app_nuxt)](https://github.com/Sanjib-036/food_app_nuxt)
