@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sanjib-036/Sanjib-036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanjibpaul59/sanjibpaul59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjib-036&show_icons=true&theme=radical)
+![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjibpaul59&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjib-036&layout=compact)](https://github.com/Sanjib-036/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjibpaul59&layout=compact)](https://github.com/sanjibpaul59/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanjib-036&repo=food_app_nuxt)](https://github.com/Sanjib-036/food_app_nuxt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjibpaul59&repo=food_app_nuxt)](https://github.com/sanjibpaul59/food_app_nuxt)
