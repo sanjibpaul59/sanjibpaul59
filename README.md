@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjibpaul59&layout=compact)](https://github.com/sanjibpaul59/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjibpaul59&repo=food_app_nuxt)](https://github.com/sanjibpaul59/food_app_nuxt) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjibpaul59&repo=food_app_nuxt)](https://github.com/sanjibpaul59/food_app_nuxt)
