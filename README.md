@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjibpaul59&repo=footballFieldFinder)](https://github.com/sanjibpaul59/footballFieldFinder)    
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjibpaul59&repo=food_app_nuxt)](https://github.com/sanjibpaul59/food_app_nuxt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjibpaul59&repo=food_app_nuxt)](https://github.com/sanjibpaul59/food_app_nuxt) 
