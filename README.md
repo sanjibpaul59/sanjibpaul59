@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjib! You can call me 'Paul' too.</h1>
-<h3 align="center">A software developer and an eager learner of things (mostly not related to work)</h3>
+<h1 align="center">Hello there 👋, This is Sanjib Paul</h1>
+<h3 align="center">A software developer and an eager learner of things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjibpaul59&label=Profile%20views&color=0e75b6&style=flat" alt="sanjibpaul59" /> </p>
 
