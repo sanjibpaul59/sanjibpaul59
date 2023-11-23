@@ -1,7 +1,7 @@
 <h1 align="left">Hello there 👋</h1>
 <h2 align="left"> This is Sanjib Kumar Paul</h2>
 <!-- <h2 align="center"> I am <a href="https://mashru020.github.io/React-Portfolio/">Sanjib Kumar Paul</a></h2> -->
-<h2 align="left">A software engineer and an eager learner</h2>
+<h2 align="left">A software developer and an eager learner</h2>
 
 - 🔭 I’m currently working in an **agro-tech company** based in Dhaka, Bangladesh
 
@@ -12,12 +12,12 @@
 - ⚡ I relieve stress by **playing Football**
 
 <h3 align="center">Reach me at:</h3>
-<p align="center">
-  <a href="mailto:sanjibpaul171@gmail.com" target="_blank" rel="noreferrer"> 📧 sanjibpaul171@gmail.com </a> </p>
-<p align="center">
+<p align="center">📧
+  <a href="mailto:sanjibpaul171@gmail.com" target="_blank" rel="noreferrer"> sanjibpaul171@gmail.com </a> </p>
+<p align="center">📱
     <a href="https://wa.me/qr/TWV4EWCNMZWQA1" target="_blank" rel="noreferrer">
     <!-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="20" width="30" alt="+880 1835-985285">  -->
-     📱 +880 1835-985285 </a> </p>
+      +880 1835-985285 </a> </p>
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
