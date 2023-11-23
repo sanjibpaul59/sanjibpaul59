@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, This is Sanjib Paul</h1>
 <h3 align="center">A software developer and an eager learner of things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjibpaul59&label=Profile%20views&color=0e75b6&style=flat" alt="sanjibpaul59" /> </p>
-
 - 🔭 I’m currently working in an **agro-tech company**
 
 - 🌱 I’m eagerly learning **how to cope up with life**
