@@ -1,21 +1,17 @@
-<h1 align="center">Hello there 👋</h1>
-<h2 align="center"> I am <a href="https://mashru020.github.io/React-Portfolio/">Sanjib Kumar Paul</a></h2>
+<h1 align="left">Hello there 👋</h1>
+<h2 align="left"> This is Sanjib Kumar Paul</h2>
+<!-- <h2 align="center"> I am <a href="https://mashru020.github.io/React-Portfolio/">Sanjib Kumar Paul</a></h2> -->
+<h2 align="left">A software engineer and an eager learner</h2>
 
-<h3 align="center">A software developer and an eager learner of things</h3>
-
-- 🔭 I’m currently working in an **agro-tech company**
+- 🔭 I’m currently working in an **agro-tech company** based in Dhaka, Bangladesh
 
 - 🌱 I’m eagerly learning **how to cope up with life**
-
-- 👯 I would love to collaborate and contribute in **open-source projects**
 
 - 🤝 It feels good to talk about **Life, Football, Movies, Ideas**
 
 - ⚡ I relieve stress by **playing Football**
 
-- 📫 Reach me at **sanjibpaul171@gmail.com** / **+880 1835-985285** (Whatsapp)
-
-<h3 align="center">Contact Info</h3>
+<h3 align="center">Reach me at:</h3>
 <p align="center">
   <a href="mailto:sanjibpaul171@gmail.com" target="_blank" rel="noreferrer"> 📧 sanjibpaul171@gmail.com </a> </p>
 <p align="center">
