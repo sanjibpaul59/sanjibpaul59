@@ -34,10 +34,10 @@
 {
   "Language"         : ["Python", "Javascript", "Ruby", "Bash"],
   "Backend"          : ["Django", "Flask", "NodeJs", "Express", "Ruby on Rails"],
-  "Database"         : ["PostgreSql","MySQL", "MongoDB", "Redis"],
+  "Database"         : ["PostgreSql", "MySQL", "MongoDB", "Redis"],
   "Frontend"         : ["HTML5", "CSS5", "Bootstrap", "JQuery", "ReactJs", "NextJs", "VueJs", "NuxtJs"],
-  "Server"           : ["Nginx", "Gunicorn", "DigitalOcean"],
-  "CI/CD"            : ["Jenkins", "Github Actions"],
+  "Server"           : ["Nginx", "Gunicorn"],
+  "CI/CD"            : ["Jenkins", "GitHub Actions"],
   "Containerization" : ["Docker"],
   "Operating System" : ["Linux"],
 }
